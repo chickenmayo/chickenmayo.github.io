@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Author name
-  url:        https://github.com/chickenmayo/chickenmayo.github.io.git 
+  url:        https://chickenmayo.github.io.git 
 
 # Gems
 gems:
